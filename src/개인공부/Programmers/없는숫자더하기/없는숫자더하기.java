@@ -1,4 +1,4 @@
-package Programmers;
+package 개인공부.Programmers.없는숫자더하기;
 //lv1 월간 코드 챌린지
 class 없는숫자더하기 {
     public int solution(int[] numbers) {

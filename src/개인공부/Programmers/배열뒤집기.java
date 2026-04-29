@@ -1,4 +1,4 @@
-package Programmers;
+package 개인공부.Programmers;
 
 public class 배열뒤집기 {
     public int[] solution(int[] num_list) {

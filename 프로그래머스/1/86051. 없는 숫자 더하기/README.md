@@ -22,6 +22,9 @@
 
 <p>0부터 9까지의 숫자 중 일부가 들어있는 정수 배열 <code>numbers</code>가 매개변수로 주어집니다. <code>numbers</code>에서 찾을 수 없는 0부터 9까지의 숫자를 모두 찾아 더한 수를 return 하도록 solution 함수를 완성해주세요.</p>
 
+### 후기
+boolean 타입이 if문 안에서 배열에 존재할 경우 true값을 주고 break문을 반복문 탈출, 배열에 존재하지 않을 경우 false값을 유지하고 더하기
+
 <hr>
 
 <h5>제한사항</h5>
@@ -69,6 +72,7 @@
 <ul>
 <li>1, 2, 3이 <code>numbers</code>에 없으므로, 1 + 2 + 3 = 6을 return 해야 합니다.</li>
 </ul>
+
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges

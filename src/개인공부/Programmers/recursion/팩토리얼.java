@@ -1,4 +1,4 @@
-package Programmers.recursion;
+package 개인공부.Programmers.recursion;
 
 class 팩토리얼 {
     public int solution(int n) {

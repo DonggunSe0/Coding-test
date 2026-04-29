@@ -1,4 +1,4 @@
-package Programmers.recursion;
+package 개인공부.Programmers.recursion;
 
 class 콜라츠추측 {
     public int solution(int num) {

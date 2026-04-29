@@ -1,4 +1,4 @@
-package Backjoon.recursion;
+package 개인공부.recursion;
 
 import java.util.Scanner;
 

@@ -2,7 +2,6 @@ import java.util.*;
 
 class Solution {
     public int findKthLargest(int[] nums, int k) {
-        //배열에서 k번째로 큰 수 찾기
         //우선 순위큐 활용 
         //정렬 메서드 이용 
         int n = nums.length;

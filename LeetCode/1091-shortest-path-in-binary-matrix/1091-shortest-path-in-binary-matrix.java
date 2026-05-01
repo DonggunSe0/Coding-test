@@ -3,7 +3,6 @@ import java.util.*;
 class Solution {
     public int shortestPathBinaryMatrix(int[][] grid) {
         //기존 문제와 다르게 방향이 8개다
-      
         //matrix size
         int n = grid.length;
         int m = grid[0].length;

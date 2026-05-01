@@ -33,4 +33,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DonggunSe0/Coding-test/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/DonggunSe0/Coding-test/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 <!---LeetCode Topics End-->

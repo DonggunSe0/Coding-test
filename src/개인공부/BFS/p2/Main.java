@@ -26,7 +26,7 @@ public class Main {
 
     static String bfs(int start, int[][] graph, boolean[] visited) {
         StringBuilder sb = new StringBuilder();
-        Queue<Integer> queue = new ArrayDeque<>(); //
+        Queue<Integer> queue = new ArrayDeque<>();
         queue.add(start);
         visited[start] = true;
 
